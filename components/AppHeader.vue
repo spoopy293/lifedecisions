@@ -1,8 +1,7 @@
 <template>
   <header>
     <div>
-      <NuxtLink to="/">Logo: User Name</NuxtLink>
-      <NuxtLink to="/">Logo</NuxtLink>
+
     </div>
     <nav>
       <NuxtLink to="dawgs">Dawgs</NuxtLink>
@@ -15,16 +14,16 @@ header {
   justify-content: space-between;
   gap: 2rem;
   padding: 2rem;
-  color: white;
-  background-color: black;
+  color: #ff00dd;
+  background-color: #d89fda;
 }
 a {
-  color: white;
+  color: #ff00dd;
   text-decoration: none;
 }
 a:hover {
-  color: blue;
-  color: red;
+  color: #ffffff;
+  color: #000000;
 }
 nav {
   display: flex;

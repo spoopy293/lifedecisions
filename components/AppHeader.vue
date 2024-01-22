@@ -1,10 +1,7 @@
 <template>
   <header>
-    <div>
-
-    </div>
     <nav>
-      <NuxtLink to="dawgs">Dawgs</NuxtLink>
+      <NuxtLink to="dawgs">puppies</NuxtLink>
     </nav>
   </header>
 </template>
